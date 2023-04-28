@@ -70,6 +70,13 @@ nav ul li{
     padding-left: 10px;
 }
 
+nav ul li a,nav a{
+  list-style: none;
+  color: white;
+  padding-left: 10px;
+}
+
+
 nav ul li a:hover{
     text-shadow: 
     0 0 10px #00b3ff,
@@ -89,14 +96,6 @@ nav ul li span{
   /* padding: 20px; */
 }
 
-a:before,a:visited{
-  color: white;
-}
-
-
-ul li a ul li a:before{
-  color: white;
-}
 
 .dropdown {
   display: none;
