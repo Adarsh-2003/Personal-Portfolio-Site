@@ -328,6 +328,10 @@ nav ul li span{
   color: white;
 }
 
+#contact{
+  scroll-margin: 150px;
+}
+
 .heading h2{
   display: flex;
   justify-content: center;
